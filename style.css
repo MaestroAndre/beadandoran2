@@ -54,6 +54,7 @@ main {
 main > img{
   float: right;
   height: 200px;
+  border: 200px;  
   width: auto;
 }  
 footer {
