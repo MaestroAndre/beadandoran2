@@ -59,7 +59,7 @@ main > img{
 }  
 footer {
   text-align: center;
-  margin: none;
+  margin: 0px;
   background-color: burlywood;
   color: black;
 
